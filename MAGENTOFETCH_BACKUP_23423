@@ -5,8 +5,12 @@
     <style></style>
   </head>
   <body>
+<<<<<<< HEAD
   	<h2>OVO JE DRUGI HEDER</h2>
+=======
   	<h1>promena</h1>
+>>>>>>> grana/granaMagento
   	<p>Magento proba</p>
-</body>
+
+  </body>
 </html>
